@@ -1,18 +1,9 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
+[![Header](https://www.instagram.com/666julianna/)
+## I'm a QA Engineer. 
+## A creator of "Julia Pavlodar-Lisbon" Youtube channel 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
-
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Зачем тестировщику Charles Proxy и Fiddler? #тестировщикснуля](https://www.youtube.com/watch?v=0wV6bYwsjfY)
-- [ПОЧЕМУ ТЕБЯ НЕ БЕРУТ НА РАБОТУ ТЕСТИРОВЩИКОМ? #войтивайти #тестировщик](https://www.youtube.com/watch?v=FDcy0gLUPJ8)
-- [#2 ChatGPT для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=aoOvNd7iTTM)
-- [Зачем тестировщику знать bash-команды?](https://www.youtube.com/watch?v=G887RlUnklA)
-- [ВАШИ РЕЗЮМЕ ПРОВЕРЯЮТ МАШИНЫ #shorts #работа #резюме](https://www.youtube.com/watch?v=AUvwA6xPphA)
-<!-- YOUTUBE:END -->
+[Link to my CV](Yuliya Karatayeva | LinkedIn
+https://www.linkedin.com/in/yuliya-karatayeva/?locale=en_US)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
