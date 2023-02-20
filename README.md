@@ -1,8 +1,7 @@
-[![Header](https://www.instagram.com/666julianna/)
+
 ## I'm a QA Engineer. 
-## A creator of "Julia Pavlodar-Lisbon" Youtube channel 
 ## My CV
-[Link to my CV](Yuliya Karatayeva | LinkedIn
+(Yuliya Karatayeva | LinkedIn
 https://www.linkedin.com/in/yuliya-karatayeva/?locale=en_US)
 
 ### Language and Tools
