@@ -17,13 +17,10 @@ https://www.linkedin.com/in/yuliya-karatayeva/?locale=en_US)
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists and Test-Cases](https://docs.google.com/spreadsheets/d/1Qq_mbCK7LXgqcNFQb9pxlfegV_y-btl1yUzjP9gFpvs/edit?usp=sharing)
+- [Bug-Reports](https://drive.google.com/drive/folders/1ZHfgVmZ08Zqv-Mdppkg6LB85nYji_E87?usp=share_link)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/yuliya-karatayeva/?locale=en_US)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliyaPavlodar&show_icons=true&theme=radical)
+![Yuliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliyaPavlodar&show_icons=true&theme=radical)
